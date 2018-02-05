@@ -6,7 +6,12 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
 #+PROPERTY: FILE SB02n0049-004華陽國志-卷第四.
+
+# SB1_0286-102.png
+# page missing
+
 <pb:KR2i0003_SBCK_004-1a>¶
+# SB1_0286-103.png
 三節大竹流入女子足間推之不肯去聞有兒聲取¶
 持歸破之得一男兒長飬有才武遂雄夷狄氏以竹¶
 爲姓&KR0162;所破竹於野成竹林今竹王祠竹林是也王¶
@@ -483,5 +488,8 @@
 華陽國志卷苐四¶
 <pb:KR2i0003_SBCK_004-21a>¶
 <pb:KR2i0003_SBCK_004-22a>¶
+# SB1_0286-144.png
 <pb:KR2i0003_SBCK_004-23a>¶
+# ?
 <pb:KR2i0003_SBCK_004-24a>¶
+# ?
